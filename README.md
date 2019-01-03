@@ -4,6 +4,7 @@ Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender
 
 <p align="center">
   <img src="https://image.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147849844.jpg">
+  <br>
   <a href="https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2456097.htm">Designed by Freepik</a>
 </p>
 
