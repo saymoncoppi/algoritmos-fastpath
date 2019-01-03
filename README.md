@@ -1,13 +1,11 @@
 # Algoritmos para ansiosos!
 Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender.
 
+
 <p align="center">
-![Programmers concept with flat design](https://image.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147849844.jpg)
+  <img src="https://image.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147849844.jpg">
 </p>
 [Designed by Freepik](https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2456097.htm)
-
-
-
 
 ## Objetivos desta iniciativa
 Simples! Todo mundo tem alguma dúvida no início.
