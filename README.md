@@ -2,8 +2,8 @@
 Algoritmos para ansiosos! \
 Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender.
 
-![Professional programmer engineer writing code](https://image.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg)
-[Designed by Iconicbestiary](https://www.freepik.com/free-vector/professional-programmer-engineer-writing-code_1311615.htm)
+![Programmers concept with flat design](https://image.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147849844.jpg)
+[Designed by Freepik](https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2456097.htm)
 
 
 ## Objetivos desta iniciativa
