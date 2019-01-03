@@ -11,9 +11,9 @@ Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender
 ## Objetivos desta iniciativa
 Simples! Todo mundo tem alguma dúvida no início ou no nosso caso queremos mesmo é entender mais rápido os conceitos e partir para a prática. Porém, cuidado! Não tem mágica!!!
 
-O conteúdo a seguir é um resumo simplificado sobre Algoritmos e busca apresentar conceitos de uma maneira direta tornando a memorização e/ou assimilação mais prática.
+O material a seguir é um resumo simplificado sobre Algoritmos e busca apresentar conceitos de uma maneira direta, auxiliando sua assimilação do conteúdo.
 
-Claro que os métodos tradicionais ou outros mais modernos continuam valendo, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
+Claro que os métodos tradicionais ou outros mais modernos continuam valendo, então pode ficar a vontade em usar o que for melhor para VOCÊ. Esta iniciativa tem o simples objetivo de ajudar novos desenvolvedores a encontrar seu próprio rítmo e mindset para a aprendizagem.
 
 ## Resumo do Conteúdo resumido
 * [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
@@ -38,6 +38,7 @@ Link Wiki
 ### Visialg
 Link visualg
 
+[Voltar ao início](#resumo-do-conteúdo-resumido)
 <br />
 <br />
 <br />
