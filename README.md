@@ -33,11 +33,13 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 Link Wiki
 ### Visialg
 Link visualg
+
 \
 \
 - - - 
 \
 \
+
 ## Estrutura básica dos algoritmos
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
