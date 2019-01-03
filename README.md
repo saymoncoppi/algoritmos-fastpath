@@ -35,25 +35,25 @@ Link visualg
 ## [Estrutura básica dos algoritmos]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Variáveis, Constantes e Tipos de dados](#variaveis-constantes-e-tipos-de-dados)
+## [Variáveis, Constantes e Tipos de dados]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Operadores](#operadores)
+## [Operadores]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Decisões](#decisoes)
+## [Decisões]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Condições](#Condicoes)
+## [Condições]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Vetores e Matrizes](#vetores-e-matrizes)
+## [Vetores e Matrizes]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Procedimentos e Funções](#procedimentos-e-funcoes)
+## [Procedimentos e Funções]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Alguns exercícios (não muitos)](#exercicios)
+## [Alguns exercícios (não muitos)]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 
