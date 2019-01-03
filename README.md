@@ -14,46 +14,46 @@ Tentei simplificar para apresentar o básico de uma maneira mais direta tornando
 Claro que existem outros métodos mais tradicionais aos outros ainda mais modernos, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
 
 ## Resumo do Conteúdo resumido
-* [Sobre algoritmos e o Visualg](https://github.com/saymoncoppi/algoritmos-fastpath#sobre-algoritmos-e-o-Visualg)
-* [Estrutura básica dos algoritmos](https://github.com/saymoncoppi/algoritmos-fastpath#estrutura-basica-dos-algoritmos)
-* [Variáveis, Constantes e Tipos de dados](https://github.com/saymoncoppi/algoritmos-fastpath#variaveis-constantes-e-tipos-de-dados)
-* [Operadores](https://github.com/saymoncoppi/algoritmos-fastpath#operadores)
-* [Decisões](https://github.com/saymoncoppi/algoritmos-fastpath#decisoes)
-* [Condições](https://github.com/saymoncoppi/algoritmos-fastpath#condicoes)
-* [Vetores e Matrizes](https://github.com/saymoncoppi/algoritmos-fastpath#vetores-e-matrizes)
-* [Procedimentos e Funções](https://github.com/saymoncoppi/algoritmos-fastpath#procedimentos-e-funcoes)
-* [Alguns exercícios (não muitos)](README.md#exercicios)
+* [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
+* [Estrutura básica dos algoritmos](#estrutura-básica-dos-algoritmos)
+* [Variáveis, Constantes e Tipos de dados](#variáveis-constantes-e-tipos-de-dados)
+* [Operadores](#operadores)
+* [Decisões](#decisões)
+* [Condições](#condições)
+* [Vetores e Matrizes](#vetores-e-matrizes)
+* [Procedimentos e Funções](#procedimentos-e-funções)
+* [Alguns exercícios](#alguns-exercÍcios)
 
 - - - 
 
-## [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
+## Sobre algoritmos e o Visualg
 ### Algoritmos
 Link Wiki
 ### Visialg
 Link visualg
 
-## [Estrutura básica dos algoritmos]
+## Estrutura básica dos algoritmos
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Variáveis, Constantes e Tipos de dados]
+## Variáveis, Constantes e Tipos de dados
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Operadores]
+## Operadores
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Decisões]
+## Decisões
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Condições]
+## Condições
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Vetores e Matrizes]
+## Vetores e Matrizes
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Procedimentos e Funções]
+## Procedimentos e Funções
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-## [Alguns exercícios (não muitos)]
+## Alguns exercícios
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 
