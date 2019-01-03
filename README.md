@@ -24,7 +24,9 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * [Procedimentos e Funções](#procedimentos-e-funções)
 * [Alguns exercícios](#alguns-exercÍcios)
 
+
 - - - 
+
 
 ## Sobre algoritmos e o Visualg
 ### Algoritmos
@@ -32,26 +34,58 @@ Link Wiki
 ### Visialg
 Link visualg
 
+
+- - - 
+
+
 ## Estrutura básica dos algoritmos
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+
+- - - 
+
 
 ## Variáveis, Constantes e Tipos de dados
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+
+- - - 
+
+
 ## Operadores
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+
+- - - 
+
 
 ## Decisões
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+
+- - - 
+
+
 ## Condições
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+
+- - - 
+
 
 ## Vetores e Matrizes
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+
+- - - 
+
+
 ## Procedimentos e Funções
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+
+- - - 
+
 
 ## Alguns exercícios
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
