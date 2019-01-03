@@ -8,7 +8,7 @@ Tentei simplificar para apresentar o básico de uma maneira mais direta tornando
 Claro que existem outros métodos mais tradicionais aos outros ainda mais modernos, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
 
 ## Resumo do Conteúdo resumido
-* Sobre algoritmos e o Visualg [GitHub](http://github.com)
+* [Sobre algoritmos e o Visualg](http://github.com)
 * Estrutura básica dos algoritmos
 * Variáveis, Constantes e Tipos de dados
 * Operadores
