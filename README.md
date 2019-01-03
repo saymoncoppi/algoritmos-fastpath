@@ -5,15 +5,15 @@ Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender
 <p align="center">
   <img src="https://image.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147849844.jpg">
   <br>
-  <a href="https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2456097.htm">Designed by Freepik</a>
+  <small><a href="https://www.freepik.com/free-vector/programmers-concept-with-flat-design_2456097.htm">Créditos da imagem: Freepik</a></small>
 </p>
 
 ## Objetivos desta iniciativa
-Simples! Todo mundo tem alguma dúvida no início.
+Simples! Todo mundo tem alguma dúvida no início ou no nosso caso queremos mesmo é entender mais rápido os conceitos e partir para a prática. Porém, cuidado! Não tem mágica!!!
 
-Tentei simplificar para apresentar o básico de uma maneira mais direta tornando mais fácil a memorização e assimilação dos conceitos. 
+O conteúdo a seguir é um resumo simplificado sobre Algoritmos e busca apresentar conceitos de uma maneira direta tornando a memorização e/ou assimilação mais prática.
 
-Claro que existem outros métodos mais tradicionais aos outros ainda mais modernos, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
+Claro que os métodos tradicionais ou outros mais modernos continuam valendo, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
 
 ## Resumo do Conteúdo resumido
 * [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
