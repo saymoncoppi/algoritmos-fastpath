@@ -28,18 +28,23 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 <br />
 <br />
 <br />
+<br />
 
 ## Sobre algoritmos e o Visualg
 ### Algoritmos
 Link Wiki
 ### Visialg
 Link visualg
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Estrutura básica dos algoritmos
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-<pre>
+
 algoritmo "semnome"
 // Função :
 // Autor :
@@ -50,38 +55,72 @@ var
 inicio
 // Seção de Comandos 
 fimalgoritmo
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Variáveis, Constantes e Tipos de dados
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Operadores
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Decisões
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Condições
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Vetores e Matrizes
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Procedimentos e Funções
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
-  
-- - - 
-  
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Alguns exercícios
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
+<br />
+<br />
+<br />
+<br />
+<br />
