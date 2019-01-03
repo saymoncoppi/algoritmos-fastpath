@@ -3,12 +3,14 @@ Algoritmos para ansiosos! \
 Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender.
 
 ## Objetivos desta iniciativa
-Simples! Todo mundo tem alguma dúvida no início. \ 
-Tentei simplificar para apresentar o básico de uma maneira mais direta tornando mais fácil a memorização e assimilação dos conceitos. \
+Simples! Todo mundo tem alguma dúvida no início.
+
+Tentei simplificar para apresentar o básico de uma maneira mais direta tornando mais fácil a memorização e assimilação dos conceitos. 
+
 Claro que existem outros métodos mais tradicionais aos outros ainda mais modernos, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
 
 ## Resumo do Conteúdo resumido
-* [Sobre algoritmos e o Visualg](http://github.com)
+* [Sobre algoritmos e o Visualg](https://github.com/saymoncoppi/algoritmos-fastpath/blob/master/README.md)
 * Estrutura básica dos algoritmos
 * Variáveis, Constantes e Tipos de dados
 * Operadores
