@@ -10,8 +10,8 @@ Tentei simplificar para apresentar o básico de uma maneira mais direta tornando
 Claro que existem outros métodos mais tradicionais aos outros ainda mais modernos, então pode ficar a vontade em usar o que for melhor para VOCÊ porque o Objetivo desta iniciativa é te ajudar.
 
 ## Resumo do Conteúdo resumido
-* [Sobre algoritmos e o Visualg](https://github.com/saymoncoppi/algoritmos-fastpath/blob/master/README.md)
-* Estrutura básica dos algoritmos
+* [Sobre algoritmos e o Visualg](https://github.com/saymoncoppi/algoritmos-fastpath#sobre-algoritmos-e-o-Visualg)
+* [Estrutura básica dos algoritmos](https://github.com/saymoncoppi/algoritmos-fastpath#estrutura-basica-dos-algoritmos)
 * Variáveis, Constantes e Tipos de dados
 * Operadores
 * Decisões
@@ -19,13 +19,13 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * Vetores e Matrizes
 * Procedimentos e Funções
 
-## Sobre algoritmos e o Visualg
+## [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
 Algoritmos
 Link Wiki
 Visialg
 Link visualg
 
-## Estrutura básica dos algoritmos
+## [Estrutura básica dos algoritmos](#estrutura-basica-dos-algoritmos)
 ## Variáveis, Constantes e Tipos de dados
 ## Operadores
 ## Decisões
