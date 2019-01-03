@@ -24,6 +24,8 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * [Procedimentos e Funções](https://github.com/saymoncoppi/algoritmos-fastpath#procedimentos-e-funcoes)
 * [Alguns exercícios (não muitos)](https://github.com/saymoncoppi/algoritmos-fastpath#exercicios)
 
+- - - 
+
 ## [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
 Algoritmos
 Link Wiki
