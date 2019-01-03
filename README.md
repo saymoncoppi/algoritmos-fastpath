@@ -32,7 +32,7 @@ Link Wiki
 ### Visialg
 Link visualg
 
-## [Estrutura básica dos algoritmos](#estrutura-basica-dos-algoritmos)
+## [Estrutura básica dos algoritmos]
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
 ## [Variáveis, Constantes e Tipos de dados](#variaveis-constantes-e-tipos-de-dados)
