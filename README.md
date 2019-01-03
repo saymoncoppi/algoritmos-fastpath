@@ -40,7 +40,7 @@ Link Wiki
 ### Visialg
 Link visualg
 
-[Voltar ao início](#resumo-do-conteúdo-resumido)[Alguns exercícios](#alguns-exercÍcios)
+[Voltar ao início](#resumo-do-conteúdo-resumido)
 <br />
 <br />
 <br />
@@ -63,6 +63,7 @@ inicio
 fimalgoritmo
 </pre>
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -72,6 +73,7 @@ fimalgoritmo
 ## Variáveis, Constantes e Tipos de dados
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -81,6 +83,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 ## Operadores
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -90,6 +93,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 ## Decisões
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -99,6 +103,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 ## Condições
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -108,6 +113,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 ## Vetores e Matrizes
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -117,6 +123,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 ## Procedimentos e Funções
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+[Voltar ao início](#resumo-do-conteúdo-resumido) | [Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -126,7 +133,7 @@ Lorem ipsum is placeholder text commonly used in the graphic, print, and publish
 ## Alguns exercícios
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
-<br />
+[Voltar ao início](#resumo-do-conteúdo-resumido)
 <br />
 <br />
 <br />
