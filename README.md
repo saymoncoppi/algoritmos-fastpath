@@ -13,7 +13,9 @@ Simples! Todo mundo tem alguma dúvida no início ou no nosso caso queremos mesm
 
 O material a seguir é um resumo simplificado sobre Algoritmos e busca apresentar conceitos de uma maneira direta, auxiliando sua assimilação do conteúdo.
 
-Claro que os métodos tradicionais ou outros mais modernos continuam valendo, então pode ficar a vontade em usar o que for melhor para VOCÊ. Esta iniciativa tem o simples objetivo de ajudar novos desenvolvedores a encontrar seu próprio rítmo e mindset para a aprendizagem.
+Então... Respondendo: "Esta iniciativa tem o simples objetivo de ajudar novos desenvolvedores a encontrar seu próprio rítmo e mindset para a aprendizagem".
+
+Claro que os métodos tradicionais continuam valendo, então pode ficar a vontade em usar o que for melhor para você.
 
 ## Resumo do Conteúdo resumido
 * [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
@@ -38,7 +40,7 @@ Link Wiki
 ### Visialg
 Link visualg
 
-[Voltar ao início](#resumo-do-conteúdo-resumido)
+[Voltar ao início](#resumo-do-conteúdo-resumido)[Alguns exercícios](#alguns-exercÍcios)
 <br />
 <br />
 <br />
@@ -48,6 +50,7 @@ Link visualg
 ## Estrutura básica dos algoritmos
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
 
+<pre>
 algoritmo "semnome"
 // Função :
 // Autor :
@@ -58,6 +61,7 @@ var
 inicio
 // Seção de Comandos 
 fimalgoritmo
+</pre>
 
 <br />
 <br />
