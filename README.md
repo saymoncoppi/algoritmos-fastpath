@@ -23,11 +23,12 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * [Vetores e Matrizes](#vetores-e-matrizes)
 * [Procedimentos e Funções](#procedimentos-e-funções)
 * [Alguns exercícios](#alguns-exercÍcios)
-  
-  
-  
-  
-  
+
+<br />
+<br />
+<br />
+<br />
+
 ## Sobre algoritmos e o Visualg
 ### Algoritmos
 Link Wiki
