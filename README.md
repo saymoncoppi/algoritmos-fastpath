@@ -14,4 +14,20 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * Operadores
 * Decisões
 * Condições
+* Vetores e Matrizes
+* Procedimentos e Funções
+
+## Sobre algoritmos e o Visualg
+Algoritmos
+Link Wiki
+Visialg
+Link visualg
+
+## Estrutura básica dos algoritmos
+## Variáveis, Constantes e Tipos de dados
+## Operadores
+## Decisões
+## Condições
+## Vetores e Matrizes
+## Procedimentos e Funções
 
