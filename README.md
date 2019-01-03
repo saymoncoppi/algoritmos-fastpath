@@ -1,5 +1,4 @@
-# algoritmos-fastpath
-Algoritmos para ansiosos! \
+# Algoritmos para ansiosos!
 Explicações curtas e objetivas, exercícios para digitar, memorizar e aprender.
 
 ![Programmers concept with flat design](https://image.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147849844.jpg)
