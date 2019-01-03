@@ -23,11 +23,9 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * [Vetores e Matrizes](#vetores-e-matrizes)
 * [Procedimentos e Funções](#procedimentos-e-funções)
 * [Alguns exercícios](#alguns-exercÍcios)
-  
-  
-- - - 
-  
-
+--
+- - -
+--
 ## Sobre algoritmos e o Visualg
 ### Algoritmos
 Link Wiki
@@ -38,6 +36,17 @@ Link visualg
   
 ## Estrutura básica dos algoritmos
 Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+<pre>
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 3/1/2019
+// Seção de Declarações 
+var
+
+inicio
+// Seção de Comandos 
+fimalgoritmo
   
 - - - 
   
