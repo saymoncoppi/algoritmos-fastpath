@@ -24,8 +24,10 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * [Procedimentos e Funções](#procedimentos-e-funções)
 * [Alguns exercícios](#alguns-exercÍcios)
   
+  
 - - - 
   
+
 ## Sobre algoritmos e o Visualg
 ### Algoritmos
 Link Wiki
