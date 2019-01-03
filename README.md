@@ -33,11 +33,27 @@ Link Wiki
 Link visualg
 
 ## [Estrutura básica dos algoritmos](#estrutura-basica-dos-algoritmos)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Variáveis, Constantes e Tipos de dados](#variaveis-constantes-e-tipos-de-dados)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Operadores](#operadores)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Decisões](#decisoes)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Condições](#Condicoes)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Vetores e Matrizes](#vetores-e-matrizes)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Procedimentos e Funções](#procedimentos-e-funcoes)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 ## [Alguns exercícios (não muitos)](#exercicios)
+Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.
+
 
