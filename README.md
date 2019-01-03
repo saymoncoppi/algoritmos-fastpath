@@ -22,14 +22,14 @@ Claro que existem outros métodos mais tradicionais aos outros ainda mais modern
 * [Condições](https://github.com/saymoncoppi/algoritmos-fastpath#condicoes)
 * [Vetores e Matrizes](https://github.com/saymoncoppi/algoritmos-fastpath#vetores-e-matrizes)
 * [Procedimentos e Funções](https://github.com/saymoncoppi/algoritmos-fastpath#procedimentos-e-funcoes)
-* [Alguns exercícios (não muitos)](https://github.com/saymoncoppi/algoritmos-fastpath#exercicios)
+* [Alguns exercícios (não muitos)](README.md#exercicios)
 
 - - - 
 
 ## [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
-Algoritmos
+### Algoritmos
 Link Wiki
-Visialg
+### Visialg
 Link visualg
 
 ## [Estrutura básica dos algoritmos](#estrutura-basica-dos-algoritmos)
