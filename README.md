@@ -13,11 +13,11 @@ Simples! Todo mundo tem alguma dúvida no início ou no nosso caso queremos mesm
 
 O material a seguir é um resumo simplificado sobre Algoritmos e busca apresentar conceitos de uma maneira direta, auxiliando sua assimilação do conteúdo.
 
-Então... Respondendo: "Esta iniciativa tem o simples objetivo de ajudar novos desenvolvedores a encontrar seu próprio rítmo e mindset para a aprendizagem".
+Então... Respondendo: "Esta iniciativa tem o simples objetivo de ajudar novos desenvolvedores a encontrar seu próprio rítmo e mindset para a aprendizagem de Lógica de Programação".
 
-Claro que os métodos tradicionais continuam valendo, então pode ficar a vontade em usar o que for melhor para você.
+Nota: Claro que os métodos tradicionais continuam valendo, fique a vontade em usar o que for melhor para você.
 
-## Resumo do Conteúdo resumido
+## Resumo do Conteúdo resumido (Sim! Você leu direito)
 * [Sobre algoritmos e o Visualg](#sobre-algoritmos-e-o-Visualg)
 * [Estrutura básica dos algoritmos](#estrutura-básica-dos-algoritmos)
 * [Variáveis, Constantes e Tipos de dados](#variáveis-constantes-e-tipos-de-dados)
